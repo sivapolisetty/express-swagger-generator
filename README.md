@@ -112,4 +112,4 @@ For model definitions:
 
 #### More
 
-This module is based on [express-swaggerize-ui](https://github.com/pgroot/express-swaggerize-ui) and [Doctrine-File](https://github.com/researchgate/doctrine-file)
+This module is based on [swagger-ui-express](https://github.com/scottie1984/swagger-ui-express) and [Doctrine-File](https://github.com/researchgate/doctrine-file)
