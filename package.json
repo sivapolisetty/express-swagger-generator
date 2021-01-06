@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/pgroot/express-swagger-generator.git"
+    "url": "https://github.com/sivapolisetty/express-swagger-generator.git"
   },
   "keywords": [
     "express",
@@ -15,19 +15,19 @@
     "swagger-ui",
     "restful"
   ],
-  "author": "https://github.com/pgroot/express-swagger-generator/graphs/contributors",
+  "author": "https://github.com/sivapolisetty/express-swagger-generator/graphs/contributors",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pgroot/express-swagger-generator/issues"
+    "url": "https://github.com/sivapolisetty/express-swagger-generator/issues"
   },
-  "homepage": "https://github.com/pgroot/express-swagger-generator",
+  "homepage": "https://github.com/sivapolisetty/express-swagger-generator",
   "dependencies": {
     "doctrine": "^2.0.0",
     "glob": "^7.0.3",
     "recursive-iterator": "^2.0.3",
     "swagger-parser": "^5.0.5",
     "doctrine-file": "^1.0.2",
-    "express-swaggerize-ui": "^1.0.3"
+    "swagger-ui-express": "^4.1.6",
   },
   "devDependencies": {
     "body-parser": "^1.15.0",
