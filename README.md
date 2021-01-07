@@ -3,7 +3,7 @@
 #### Installation
 
 ```
-npm i express-swagger-generator --save-dev
+npm i express-swagger-ui-generator --save-dev
 ```
 
 #### Usage
